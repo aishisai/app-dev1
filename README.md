@@ -3,3 +3,4 @@ My first repository
 
 Name: Haku
 Age: ??
+Species: water dragon
